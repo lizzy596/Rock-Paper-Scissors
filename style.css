@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap");
+
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+main p {
+  font-family: arial;
+}
+
+button {
+  padding: 8px;
+  margin: 8px;
+  border-radius: 5px;
+  font-family: arial;
+}
+
+#score {
+  display: flex;
+}
+
+#manscore {
+  display: flex;
+}
+
+#machinescore {
+  display: flex;
+}
+
+h2 {
+  padding: 8px;
+  margin: 8px;
+}
